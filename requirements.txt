@@ -1,0 +1,30 @@
+# Commodities Club — Spring 2026
+# Python 3.9+
+
+# Core data & numerics
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+
+# Market data
+yfinance>=0.2.36
+pandas-datareader>=0.10
+
+# Statistics & econometrics
+statsmodels>=0.14
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Optimization
+cvxpy>=1.4
+
+# Jupyter
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+
+# Utilities
+requests>=2.31
+tqdm>=4.65
