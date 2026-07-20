@@ -28,3 +28,4 @@ ipykernel>=6.0
 # Utilities
 requests>=2.31
 tqdm>=4.65
+pytest>=7.4

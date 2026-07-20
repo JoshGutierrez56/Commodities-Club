@@ -1,0 +1,24 @@
+{
+  "data_mode": "synthetic",
+  "seed": 42,
+  "months": 238,
+  "transaction_cost_bps_one_way": 10.0,
+  "average_monthly_turnover": 0.4385908081340618,
+  "strategy": {
+    "annualized_return": 0.046799145194688085,
+    "annualized_volatility": 0.1052229272968381,
+    "sharpe_zero_rf": 0.4447618631884838,
+    "max_drawdown": -0.2043191461145044,
+    "positive_month_rate": 0.5672268907563025,
+    "total_return": 1.4771746478759145
+  },
+  "equal_weight_benchmark": {
+    "annualized_return": 0.03058477608659227,
+    "annualized_volatility": 0.0873489152742295,
+    "sharpe_zero_rf": 0.3501448872097863,
+    "max_drawdown": -0.2704044131761276,
+    "positive_month_rate": 0.5546218487394958,
+    "total_return": 0.817581250629384
+  },
+  "claim_limit": "Synthetic execution evidence only; no historical commodity alpha claim."
+}
